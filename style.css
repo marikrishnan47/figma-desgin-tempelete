@@ -163,6 +163,14 @@ nav a{
         font-size: 31px;
         font-weight: bold;
     }
+    .postion-ex-img-1{
+        position: absolute;
+        bottom: 39px;
+        width: 40px;
+        height: 40px;
+        /* margin-right: 20px; */
+        margin-left: 10px;
+    }
 }
 @media (min-width: 768px) and (max-width: 1024px){ 
     .postion-ex-img-1{
@@ -260,6 +268,14 @@ position: relative;
     font-weight: 600;
     font-size: 18px;
     color: #224F34;
+}
+.postion-ex-img-1{
+    position: absolute;
+    bottom: 39px;
+    width: 90px;
+    height: 90px;
+    /* margin-right: 20px; */
+    margin-left: 10px;
 }
 .Exclusive-cont span{
     width: 70px;
